@@ -1,7 +1,6 @@
 # MCI-Product-Vision
-markdown
-CopyEdit
-# EduSync - ทีม Green Team
+
+# EduSync - ทีม BIBI
 
 ## 👥 Team Members
 1.66020699 นายณัฐวุฒิ แดงโชติ (Front-End)
